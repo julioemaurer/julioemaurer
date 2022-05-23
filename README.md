@@ -1,9 +1,9 @@
 # Sobre mim
 
 -  Meu nome é @JúlioMaurer
-- :+1: Meu email de contato é julio.maurer@escola.pr.gov.br
-- Eu estou interessado em programar em novas linguagens(JavaScript e HTML).
-- 🌱 Eu estou aprendendo a programar JavaScript e Scratch
+-  Meu email de contato é julio.maurer@escola.pr.gov.br
+-  Eu estou interessado em programar em novas linguagens(JavaScript e HTML).
+-  Eu estou aprendendo a programar JavaScript e Scratch
 
 
 <!---
